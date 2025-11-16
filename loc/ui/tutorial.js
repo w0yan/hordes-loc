@@ -294,6 +294,6 @@ export default {
       fr: 'Félicitations pour avoir atteint le niveau 45! Tu peux maintenant rejoindre d\'autres joueurs pour affronter Gloomfury, participer aux Obélisques JcJ, faire du farming "Hellspawn", ou partir à la chasse aux montures et familiers rares!',
       es: '¡Felicidades por alcanzar el nivel 45! Ya puedes unirte a otros jugadores para luchar contra Gloomfury, participar en Obeliscos JcJ, cultivar Engendros Infernales o cazar mascotas y monturas raras.',
       pt: 'Parabéns pelo nível 45! Agora você pode se juntar a outros jogadores para enfrentar Gloomfury, participar dos Obeliscos PvP, farmar Hellspawn ou caçar mascotes e montarias raras!'
-    },
-      ]
+    }
+  ]
 }
